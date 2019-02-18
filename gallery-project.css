@@ -34,3 +34,17 @@ html {
 .imageContainer:not(:first-child) {
   display: none;
 }
+#description {
+  font-style: italic;
+}
+
+#step-title {
+  font-weight: bold;
+}
+
+#heading {
+  font-family: georgia;
+  font-size: 28px;
+  font-style: italic;
+  text-align: center;
+}
