@@ -28,3 +28,9 @@ html {
 .navButton:hover {
   opacity: 1;
 }
+.caption {
+  float: center;
+ }
+.imageContainer:not(:first-child) {
+  display: none;
+}
